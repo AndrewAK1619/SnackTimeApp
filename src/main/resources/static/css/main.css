@@ -1,0 +1,28 @@
+.home-jumbo {
+    background: url('../img/jumbo-back.jpg') center;
+}
+
+.media-body {
+    margin-left: 10px;
+}
+
+.text-shadow {
+  text-shadow: -5px 0 8px black, 
+  				0 5px 8px black,
+      			5px 0 8px black, 
+      			0 -5px 8px black,
+      			-10px 0 8px black, 
+  				0 10px 8px black,
+      			10px 0 8px black, 
+      			0 -10px 8px black;
+}
+
+a.deco {
+	color: #63e122;
+	text-decoration: none;
+}
+
+a.deco:hover {
+	color: green;
+	text-decoration: none;
+}
